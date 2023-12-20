@@ -1,0 +1,10 @@
+**.so
+**.o
+**.d
+**_m.cc
+**_m.h
+**.sca
+**.rt
+./examples/sixgen/core
+**.gch
+**.o
